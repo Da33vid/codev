@@ -3,6 +3,8 @@ import miFoto from './assets/fotoMia.png'
 import logoTikTok from './assets/tiktok.png'
 import logoInstagram from './assets/instagram.png'
 import logoGithub from './assets/github.png'
+import { SpeedInsights } from '@vercel/speed-insights/react';
+
 import './App.css'
 
 
@@ -10,6 +12,8 @@ import './App.css'
 function App() {
   return (
     <div className="container">
+            <SpeedInsights />
+
       <img src={miFoto} className="foto" alt="Mi foto" />
       <h1>David Aparicio López</h1>
       <h2>Desarrollador Web</h2>
