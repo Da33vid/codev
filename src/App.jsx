@@ -12,7 +12,7 @@ import './App.css'
 function App() {
   return (
     <div className="container">
-            <SpeedInsights />
+            <SpeedInsights/>
 
       <img src={miFoto} className="foto" alt="Mi foto" />
       <h1>David Aparicio López</h1>
