@@ -21,7 +21,7 @@ function App() {
         <a href="https://www.tiktok.com/@codev.jr" target="_blank">
           <img src={logoTikTok} className="logo" alt="Logo de TikTok" />
         </a>
-        <a href="https://www.instagram.com/codev.jr" target="_blank">
+        <a href="https://www.instagram.com/daviz.dev" target="_blank">
           <img src={logoInstagram} className="logo" alt="Logo de Instagram" />
         </a>
         <a href="https://github.com/Da33vid" target="_blank">
